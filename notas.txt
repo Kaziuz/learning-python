@@ -1,0 +1,30 @@
+Tipos de datos en python
+
+NOMBRE            TIPO    DESCRIPCION
+Entero            int     3 500 6000
+Flotante          float   2.5 6.76 58.856
+Cadena de texto   str     "hola" 'eric' "20,000"
+Listas            list    [10, 'hola', 100.4]
+Diccionarios      dict    {"palabra": "significado", "clave": "valor"}
+Tuplas            tup     Orden inmutable de objetos: (10, "hola", 200.4)
+Sets              set     Colección de objectos no ordenados {"a", "b"}
+Booleanos         bool    true o false
+
+para activar un enviroment
+conda activate nombredelenviroment (en este caso es curso)
+
+para desactivar un enviroment
+conda deactivate
+
+paquetes que se pueden usar 
+DESARROLLO WEB
+  flask
+  django
+CIENCIA DE datos
+  TensorFlow
+  Matplotlib
+  Pandas
+  Numpy
+
+Hacking Etico
+  Scapy
