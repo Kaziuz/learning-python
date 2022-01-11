@@ -10,13 +10,20 @@ Tuplas            tup     Orden inmutable de objetos: (10, "hola", 200.4)
 Sets              set     Colección de objectos no ordenados {"a", "b"}
 Booleanos         bool    true o false
 
+Es bueno trabajar python con ambientes virtuales.
+Para crear ambientes podemos usar anaconda
+
+para crear un ambiente
+conda create -n nombredelambiente versionpython
+ejemplo: conda -n curso python=3.8
+
 para activar un enviroment
 conda activate nombredelenviroment (en este caso es curso)
 
 para desactivar un enviroment
 conda deactivate
 
-paquetes que se pueden usar 
+paquetes que se pueden usar:
 DESARROLLO WEB
   flask
   django
