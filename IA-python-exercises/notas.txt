@@ -1,0 +1,33 @@
+¿Que es la inteligencia artificial ?
+En palabras senciallas, la inteligencia artificial se aplica cuando una máquina imita las funciones
+<<cognitivas>> que los humanos asocian con otras mentes humanas, como por ejemplo: percibir, razonar,
+aprender y resolver problemas.
+
+Ejemplos de inteligencia artifical: El motor de búsqueda de google, los sistemas de reconocimiento de 
+Amazon, el reconocimiento facial de facebook, Siri de apple, el recomendador de netflix y mucho más. 
+
+¿ Qué es el machine learning ?
+El aprendizaje automático o aprendizaje automatizado o aprendizaje de máquinas es una rama de la inteligencia
+artificial, cuyo objetivo es desarrollar técnicas que permitan que las computadoras aprendan.En el machine learning
+un computador observa datos, construye un modelo basado en esos datos y utiliza ese modelo a la vez como una hipótesis
+acerca del mundo y una pieza de software que puede resolver problemas. Son un tipo de técnicas de inteligencia artificial
+donde las computadoras aprenden a hacer algo sin ser programadas para eso.
+
+¿ Qué es el deep learning ?
+El deep learning (aprendizaje profundo) lleva a cabo el proceso de Machine Learning usando una red neuronal artificial que se
+compone de un número de niveles jerárquicos. Basicamente, el aprendizaje profundo es una tecnica de machine learning, 
+que permite extraer caracteristicas automaticamente. En el nivel inicial de la jerarquia la red aprende algo simple y
+luego envía esta información al siguiente nivel. El siguiente nivel toma esta información sencilla, la combina, compone 
+una información algo un poco más compleja, y se lo pasa al tercer nivel, y asi sucesivamente.
+
+Diferencias entre machine learning y deep learning
+En un proceso de machine learning
+1. Seleccionar el modelo a entrenar
+2. Se realiza manualmente la extracción de características
+En un proceso de deep learning
+1. Seleccionar la arquitectura de la red
+2. Las caracteristicas se extraen automáticamete alimentando los datos de entrenamiento (como imágenes) junto con la 
+clase de objetivo (etiqueta)
+
+voy https://www.youtube.com/watch?v=TWk0YtF7pDM&t=229s
+35:13

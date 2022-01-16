@@ -1,0 +1,9 @@
+Ejercicio 1 inteligencia artificial
+Proyecto 1: Convertir Celsius a fahrenheit
+
+Contruir un simple modelo de aprendizaje de máquinas para convertir las temperaturas de celsius a fahrenheit
+
+la ecuación es la siguiente:
+T(f) = T(c) x 9/5 + 32
+Por ejemplo: convertir la temperatura 0c a f
+T(f) = (0c x 9/5) + 32 = 32F
