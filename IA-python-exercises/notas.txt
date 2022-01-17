@@ -28,6 +28,3 @@ En un proceso de deep learning
 1. Seleccionar la arquitectura de la red
 2. Las caracteristicas se extraen automáticamete alimentando los datos de entrenamiento (como imágenes) junto con la 
 clase de objetivo (etiqueta)
-
-voy https://www.youtube.com/watch?v=TWk0YtF7pDM&t=229s
-35:13
