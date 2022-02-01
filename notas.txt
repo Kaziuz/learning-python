@@ -13,14 +13,26 @@ Booleanos         bool    true o false
 Es bueno trabajar python con ambientes virtuales.
 Para crear ambientes podemos usar anaconda
 
-para crear un ambiente
+INSTALACIÓN ANACONDA
+
+1. Descargamos anaconda. Deberia ser un archivo .sh
+2. Para verificar la descarga corremos sha256sum Anaconda3-5.2.0-Linux-x86_64.sh
+Deberia de salirnos algo asi
+09f53738b0cd3bb96f5b1bac488e5528df9906be2480fe61df40e0e0d19e3d48  Anaconda3-5.2.0-Linux-x86_64.sh
+3.corremos bash Anaconda3-5.2.0-Linux-x86_64.sh para instalar anaconda
+4. para activar la instalación source ~/.bashrc
+5. Testear instalacion conda list, conda info
+6. conda update conda
+7. conda update anaconda
+
+PARA CREAR AMBIENTE EN ANACONDA
 conda create -n nombredelambiente versionpython
 ejemplo: conda -n curso python=3.8
 
-para activar un enviroment
+PARA ACTIVAR UN ENVIRONMENT
 conda activate nombredelenviroment (en este caso es curso)
 
-para desactivar un enviroment
+PARA DESACTIVAR UN ENVIRONMENT
 conda deactivate
 
 paquetes que se pueden usar:
